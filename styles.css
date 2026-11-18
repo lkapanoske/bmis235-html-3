@@ -22,6 +22,7 @@ nav {
     background-color: #90d5ff;
     padding: 14px;
     text-align: center;
+   border-radius: 12px
 }
 
 /* every image inside the menu is forced to the same height.
@@ -48,7 +49,7 @@ p {
     max-width: 600px;
     margin: 20px auto;
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.7;
 }
 
 footer {
