@@ -19,7 +19,7 @@ body {
 
 /* the menu at the top of every page */
 nav {
-    background-color: #90d5ff;
+    background-color: #4d93d9;
     padding: 14px;
     text-align: center;
    border-radius: 12px
@@ -40,7 +40,7 @@ nav a {
 }
 
 h1 {
-    color: #2b5d8c;
+    color: #4d93d9;
     text-align: center;
     font-size: 40px;
 }
