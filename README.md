@@ -1,6 +1,6 @@
 # BMIS 235 · HTML-3 · Links + CSS: Your Own Site
 
-**Name:** YOUR NAME
+**Name:** Lindsey Kapanoske
 **GU username:** YOUR-GU-USERNAME
 
 My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-3/
